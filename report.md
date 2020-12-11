@@ -58,7 +58,7 @@ https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.
 
 **В результате тестирования выявлены следующие дефекты:**
 
-https://github.com/mariyaburtseva/java-1-1/issues/1
+https://github.com/mariyaburtseva/Java---homework-1-1/issues/1
 
 **Тестирование производилось в следующем окружении:**
 
